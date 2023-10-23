@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(135, 195, 203);
+    
+}
+h1{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: -1px 2px 7px #1C6EA4; ;
+}
+
+.box{
+    border-radius: 8px;
+    background-color: rgb(192, 228, 210);
+    border: 2px hidden #387daa;
+    border-color: rgb(120, 150, 75);
+    padding-top: 10px;
+    margin-top: 20px;
+    
+}
+.submitbtn{
+    border-radius: 5px;
+    padding:10px 20px;
+    background-color: rgb(204, 174, 91);
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin: 10px 50px;
+    box-shadow: 2px 2px 7px 1px;
+}
+.redo{
+    border-radius: 5px;
+    padding:10px 20px;
+    background-color: rgb(196, 101, 60);
+    display: flex;
+    justify-content: center;
+    margin: 10px 50px;
+    box-shadow: 2px 2px 7px 1px;
+    margin-left: 60px;
+}
+.plsetr{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.outputStr{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:50px 100px;
+    font-weight: bold;
+}
